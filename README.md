@@ -96,7 +96,7 @@ rosbag play HH-LVGO-01.bag
 The diagram illustrates the time synchronization scheme among GNSS, LiDAR, and image data.
 
 <div align="center">
-  <img src="pics/sync2.jpg" width="100%" alt="Time synchronization diagram">
+  <img src="pics/structre.png" width="100%" alt="Time synchronization diagram">
 </div>
 
 **Hardware Platform:**
